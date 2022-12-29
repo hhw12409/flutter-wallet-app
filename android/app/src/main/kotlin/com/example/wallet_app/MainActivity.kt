@@ -1,4 +1,4 @@
-package com.example.webtoon_app
+package com.example.wallet_app
 
 import io.flutter.embedding.android.FlutterActivity
 
